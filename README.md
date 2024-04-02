@@ -40,7 +40,6 @@ TrueExpenseTracker is built using the following technologies:
 
 - **React**: Front-end library for building user interfaces.
 - **React Hooks**: Used for managing state and lifecycle within functional components.
-- **Firebase Authentication**: Provides user authentication services.
 - **Chart.js**: JavaScript library for creating interactive charts and graphs.
 - **CSS Modules**: CSS file organization technique to scope styles locally by default.
 
