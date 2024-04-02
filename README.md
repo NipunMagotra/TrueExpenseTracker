@@ -16,7 +16,7 @@ To get started with TrueExpenseTracker, follow these steps:
 
 1. **Clone the Repository**: Clone the TrueExpenseTracker repository to your local machine using the following command:
    ```
-   git clone https://github.com/your-username/true-expense-tracker.git
+   https://github.com/NipunMagotra/TrueExpenseTracker
    ```
 
 2. **Install Dependencies**: Navigate to the project directory and install dependencies using npm or yarn:
